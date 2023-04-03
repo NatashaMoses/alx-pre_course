@@ -1,1 +1,1 @@
-git fetch origin && git checkout main && git merge origin/main
+git pull https://github.com/NatashaMoses/alx-pre_course/blob/master/0x01-git/README.md
